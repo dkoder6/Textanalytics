@@ -1,0 +1,11 @@
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/obj/Debug/netcoreapp2.2/textanalytics.csprojAssemblyReference.cache
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/obj/Debug/netcoreapp2.2/textanalytics.csproj.CoreCompileInputs.cache
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/obj/Debug/netcoreapp2.2/textanalytics.AssemblyInfoInputs.cache
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/obj/Debug/netcoreapp2.2/textanalytics.AssemblyInfo.cs
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/bin/Debug/netcoreapp2.2/textanalytics.deps.json
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/bin/Debug/netcoreapp2.2/textanalytics.runtimeconfig.json
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/bin/Debug/netcoreapp2.2/textanalytics.runtimeconfig.dev.json
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/bin/Debug/netcoreapp2.2/textanalytics.dll
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/bin/Debug/netcoreapp2.2/textanalytics.pdb
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/obj/Debug/netcoreapp2.2/textanalytics.dll
+/Users/devanshukshatri/Projects/textanalytics/textanalytics/obj/Debug/netcoreapp2.2/textanalytics.pdb
